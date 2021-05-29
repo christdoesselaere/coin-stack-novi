@@ -1,0 +1,50 @@
+.spot-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px 0;
+    background-color: #DFF9FE;
+    box-shadow: 0 0 10px 0 gray;
+}
+
+.spot-box-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: -20px;
+    padding: -20px 0;
+    color: #FFBB00;
+    background-color: #003E6E;
+}
+
+.spot-labels {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 8px;
+}
+
+.spot-labels p {
+    width: 100px;
+}
+
+.spot-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 68%;
+    padding: 4px 0;
+}
+
+@media screen and (min-width: 780px) {
+    .spot-box {
+        width: 300px;
+        border-radius: 8px;
+    }
+
+    .spot-box-header {
+        border-radius: 8px 8px 0 0;
+    }
+}
