@@ -42,7 +42,7 @@ Start vervolgens de app met het volgende commando:
 
 Gebruik de volgende gegevens om in te loggen:
 
-Email:          user@coin-stack.nl
+Email:          user@coin-stack.nl<br>
 Wachtwoord:     welkom1
 
 API keys:<br>
