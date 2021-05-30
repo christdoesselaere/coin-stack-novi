@@ -16,6 +16,7 @@ Binnenkort zijn hier ook de openstaande orders, historie en totale waardes van a
 
 Uiteindelijk moet ook iedere deelnemer apart kunnen inloggen met een eigen account, de beheerder kan dan toestemming geven met wie de gegevens gedeeld worden.
 
+
 ### Instalatie
 
 Instaleer de node modules door het volgende commande in de terminal te runnen:
@@ -38,6 +39,7 @@ Start vervolgens de app met het volgende commando:
 
 `npm start`
 
+
 ### Inlog en API gegevens
 
 Gebruik de volgende gegevens om in te loggen:
@@ -52,6 +54,7 @@ REACT_APP_F_TEST_API_KEY=d609c5e29181b0ec740e2370b1ef6ee2f4038573cf2657cfe744818
 REACT_APP_F_TEST_SECRETKEY=2335334d747e7863891f0543a5b40cff432740673891343b537a8b52f248d226<br>
 
 (REACT_APP_APIKEY & REACT_APP_SECRETKEY kun je leeg laten voor testgebruik, deze vul je in met API keys gemaakt in Binance)
+
 
 ### Limitaties
 
