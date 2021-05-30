@@ -45,6 +45,14 @@ Gebruik de volgende gegevens om in te loggen:
 Email:          user@coin-stack.nl
 Wachtwoord:     welkom1
 
+API keys:<br>
+REACT_APP_TEST_API_KEY=cASw5IjETig3NInj8Ylt4odRlpo9aXe3dKaX85YddParq5ZGX095DRITu6DC1cmY<br>
+REACT_APP_TEST_SECRETKEY=ITDSocDMGiVxIcXoCt8fu16MFgsEKmlPdqFtDyj5gxEr6H5jE06DVKnjim534Zpt<br>
+REACT_APP_F_TEST_API_KEY=d609c5e29181b0ec740e2370b1ef6ee2f4038573cf2657cfe74481863670d2de<br>
+REACT_APP_F_TEST_SECRETKEY=2335334d747e7863891f0543a5b40cff432740673891343b537a8b52f248d226<br>
+
+(REACT_APP_APIKEY & REACT_APP_SECRETKEY kun je leeg laten voor testgebruik, deze vul je in met API keys gemaakt in Binance)
+
 ### Limitaties
 
 Door het CORS (Cross-origin resource sharing) beleid wat Binance hanteerd is op en moment een browser met een uitgeschakeld web-security nodig.
