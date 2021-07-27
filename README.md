@@ -10,7 +10,7 @@ De beheerder vult eenmalig de API keys in welke in Binance zijn aangemaakt, let 
 Vervolgens deelt de beheerder de inloggegevens met de deelnemers. 
 
 Coin Stack haalt de data via de Binance API op en geeft deze in een makkelijk overzicht weer op zowel pc als mobiel.
-In de huidige versie zijn alleen de spot assets en futures zichtbaar. Bij de futures word de marktwaarde (Mark) en winst of werlies (PnL) iedere 5 seconde bijgewerkt.
+In de huidige versie zijn alleen de spot assets en futures zichtbaar. Bij de futures word de marktwaarde (Mark) en winst of verlies (PnL) iedere 5 seconde bijgewerkt.
 
 Binnenkort zijn hier ook de openstaande orders, historie en totale waardes van alle bezitten in te zien. Later worden ook grafieken toegevoegd welke per asset of future te bekijken zijn.
 
